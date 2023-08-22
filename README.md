@@ -20,7 +20,7 @@ Espero que les agradece mi pequeño submod y aquí les dejo lo que trae:
 - [ ] Me siento....[Intentaré poner emociónes algo insertables para tí]
 
 <p align="center">
-  <img src="https://github.com/zer0fixer/SubmodMAS/blob/main/ddbh_chibi.png" width="100"">
+  <img src="https://github.com/Zero-Fixer/SubmodMAS/blob/main/ddbh_chibi.png" width="100"">
 </p>
 
 <h2 align="center">
@@ -28,7 +28,7 @@ Espero que les agradece mi pequeño submod y aquí les dejo lo que trae:
 </h2>
 
 <p align="center">
-  <img src="https://github.com/zer0fixer/SubmodMAS/blob/main/noway.gif" width="200"">
+  <img src="https://github.com/Zero-Fixer/MAS-Plus-ES/blob/main/noway.gif" width="200"">
 </p>
 
 <h3 align="center">
