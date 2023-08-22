@@ -1,5 +1,5 @@
 
-# MAS +
+# MAS Plus
 Es un submod que tratara de añadir un poco de todo (**recalcó que no será cosas complejas por mi falta de experiencia con Ren'Py y Python**) a Monika After Story.
 Aun esta en desarollo pero mi meta final es llegar hasta la version 2.0.
 Se agregara un nuevo submod aparte para evitar saturar el actual.
@@ -20,7 +20,7 @@ Espero que les agradece mi pequeño submod y aquí les dejo lo que trae:
 - [ ] Me siento....[Intentaré poner emociónes algo insertables para tí]
 
 <p align="center">
-  <img src="https://github.com/Zero-Fixer/SubmodMAS/blob/main/ddbh_chibi.png" width="100"">
+  <img src="https://github.com/Zero-Fixer/MAS-Plus-ES/blob/main/ddbh_chibi.png" width="100"">
 </p>
 
 <h2 align="center">
